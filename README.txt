@@ -1,0 +1,1 @@
+Use WASD to move around. Collect all 3 cubes to trigger door animation and open space to enter next area and see the cool sphere. Animations for character are imported from Mixamo, 3D model is my own. 
